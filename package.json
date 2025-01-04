@@ -1,0 +1,32 @@
+{
+    "name": "remove-comment-dart-yaml",
+    "displayName": "Remove Comment Dart & YAML",
+    "description": "Extension to remove all comments and format code in .dart and .yaml files",
+    "version": "1.0.0",
+    "publisher": "marhaendev",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/marhaendev/vsix-remove-comment-dart-yaml"
+    },
+    "icon": "images/icon.png",
+    "engines": {
+      "vscode": "^1.70.0"
+    },
+    "categories": [
+      "Other"
+    ],
+    "activationEvents": [
+      "onCommand:remove-comment-dart-yaml.run"
+    ],
+    "main": "extension.js",
+    "contributes": {
+      "commands": [
+        {
+          "command": "remove-comment-dart-yaml.run",
+          "title": "Remove Comment Dart & YAML"
+        }
+      ]
+    },
+    "dependencies": {}
+  }
+  
