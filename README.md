@@ -12,7 +12,7 @@ This extension helps remove all comments in `.dart` and `.yaml` files and format
 3. Click **Install** to install the extension.
 
 ## How to Download from [Marketplace VSCode](https://marketplace.visualstudio.com/)
-1. Download the extension [here](https://marketplace.visualstudio.com/items?itemName=marhaendev.remove-comment-dart-yaml).
+1. Download the extension [Remove Comment Dart & YAML](https://marketplace.visualstudio.com/items?itemName=marhaendev.remove-comment-dart-yaml).
 2. Open **Extensions Marketplace** in Visual Studio Code.
 3. Click the three-dot icon (**...**) and select **Install from VSIX** to install the downloaded extension file.
 
